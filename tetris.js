@@ -1,5 +1,5 @@
 // Game constants
-const COLS = 10;
+const COLS = 12;
 const ROWS = 20;
 const BLOCK_SIZE = 30;
 const COLORS = [
